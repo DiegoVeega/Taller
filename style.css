@@ -1,9 +1,18 @@
-*{
+* {
     background-color: #c5dec4
 }
 
-ul li{
+#nave ul li {
     list-style-type: none;
-    display: inline
+    display: inline;
+
 }
 
+#redes{
+    display: inline;
+}
+
+#caja{
+    display: block;
+    background-color: #ffffff;
+}
