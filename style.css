@@ -1,0 +1,9 @@
+*{
+    background-color: #c5dec4
+}
+
+ul li{
+    list-style-type: none;
+    display: inline
+}
+
